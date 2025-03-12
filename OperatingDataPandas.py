@@ -67,3 +67,6 @@ print(A + B)
 """ 
 Ufuncs: Operations Between DataFrame and Series
 """
+
+A = rng.randint(10, size=(3, 4))
+print(A)
